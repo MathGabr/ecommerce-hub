@@ -9,6 +9,6 @@ module.exports = {
   },
 };
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/ecommerce-hub/' : '/',
+  baseUrl: '/ecommerce-hub'
 };
 
